@@ -1,4 +1,4 @@
-import { KAI } from "./utils/Kai.js";
+import { KAI } from "../utils/Kai.js";
 
 const kai = new KAI({
   token: "Your_token",

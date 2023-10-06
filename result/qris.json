@@ -1,0 +1,16 @@
+{
+  "code": "00",
+  "message": "SUCCESS",
+  "payload": {
+    "transactionDate": "20231006",
+    "transactionTime": "085918",
+    "terminalID": "74517932",
+    "responseCode": "2004900",
+    "responseMessage": "APPROVAL",
+    "merchantTransactionID": "121614181887300",
+    "channelType": "02",
+    "refferenceNumber": "327908605775",
+    "billRefferenceNumber": "12161418188730000000",
+    "qrContent": "00020101021226690021ID.CO.BANKMANDIRI.WWW01189360000801127320910211711273209100303UKE51440014ID.CO.QRIS.WWW0215ID20222400299850303UKE5204411153033605405150005802ID5925PT KERETA API INDONESIA (6013Bandung (Kota6105401176228070874517932501232790860577563048D6F"
+  }
+}
